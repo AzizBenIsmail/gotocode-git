@@ -1,2 +1,3 @@
 Mail de remerciement pour cadeau professionnel
 Salut {{FirstName}},
+Je tiens à te remercier pour ce merveilleux cadeau d’anniversaire que j’ai découvert sur mon bureau ce matin ! Je suis très touché par cette attention de ta part, tu sais toujours comment trouver le cadeau parfait pour moi.
